@@ -1,5 +1,4 @@
-export const LOGO =
-  "https://res.cloudinary.com/dyp247eoh/image/upload/e_trim/v1795413574/WhatsApp_Image_2026-11-22_at_12.20.47_PM-removebg-preview_owzp6f.png"
+export const LOGO = "/new-logo.png"
 
 export const images = {
   hero: "https://images.unsplash.com/photo-1758273238415-01ec03d9ef27?auto=format&fit=crop&w=1600&q=85",
